@@ -1,0 +1,23 @@
+{
+  "name": "sitesfare",
+  "displayName": "Sitesfare",
+  "version": "1.8.0",
+  "description": "Make, edit and publish a Sitesfare website from a conversation: say what you are making and it is built with your words in it, then change words, photos and design in plain language.",
+  "author": {
+    "name": "Vistraal",
+    "url": "https://sitesfare.com"
+  },
+  "homepage": "https://sitesfare.com/connect",
+  "repository": "https://github.com/vistraal/sitesfare-for-claude",
+  "license": "MIT",
+  "privacyPolicyUrl": "https://sitesfare.com/privacy",
+  "icon": ".claude-plugin/icon.png",
+  "keywords": [
+    "website",
+    "website builder",
+    "portfolio",
+    "wedding website",
+    "online store",
+    "hosting"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "sitesfare",
+  "owner": {
+    "name": "Vistraal",
+    "url": "https://sitesfare.com"
+  },
+  "description": "Sitesfare for Claude: make, edit and publish a Sitesfare website from a conversation.",
+  "plugins": [
+    {
+      "name": "sitesfare",
+      "source": "./",
+      "description": "Make, edit and publish a Sitesfare website from a conversation."
+    }
+  ]
+}

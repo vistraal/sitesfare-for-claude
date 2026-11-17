@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "sitesfare": {
+      "type": "http",
+      "url": "https://api.sitesfare.com/mcp"
+    }
+  }
+}
