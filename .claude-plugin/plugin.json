@@ -11,6 +11,9 @@
   "repository": "https://github.com/vistraal/sitesfare-for-claude",
   "license": "MIT",
   "privacyPolicyUrl": "https://sitesfare.com/privacy",
+  "termsOfServiceUrl": "https://sitesfare.com/terms",
+  "supportUrl": "https://sitesfare.com/contact",
+  "documentationUrl": "https://sitesfare.com/guides/connect-claude",
   "icon": ".claude-plugin/icon.png",
   "keywords": [
     "website",
